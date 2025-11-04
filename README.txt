@@ -29,7 +29,7 @@ COMPILATION INSTRUCTIONS
   On Ubuntu Linux
   	1. Open the terminal and navigate to the directory where the project files are found. e.g., to access 1.1:
         
-          cd ~/Downloads/HW2/1.1
+          cd ~/Downloads/Chau_Nora_HW_ControlFlow/1.1
   
     2. To compile the .c file, run the following command. e.g., to compile grade_calculator.c:
   
